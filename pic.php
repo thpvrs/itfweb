@@ -11,7 +11,7 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-sm-6">
-                <img src="img/creative/creative4.jpg" style="height: 600px;" class="img-fluid">
+                <img src="img/creative/creative4.jpg" style="height: 600px; width: 100%;" class="img-fluid">
             </div>
             <div class="col-sm-3">
                 <img src="img/creative/creative.jpg"  style="height: 200px; width: 100%;" class="img-fluid">
